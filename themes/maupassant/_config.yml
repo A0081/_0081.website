@@ -58,10 +58,10 @@ twikoo: ## See: https://twikoo.js.org
   region: ## Tencent CloudBase region, e.g. ap-shanghai
   path: ## Article path, e.g. window.location.pathname
 
-google_search: true ## Use Google search, true/false.
+google_search: false ## Use Google search, true/false.
 baidu_search: false ## Use Baidu search, true/false.
 swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
-self_search: false ## Use a jQuery-based local search engine, true/false.
+self_search: true ## Use a jQuery-based local search engine, true/false.
 google_analytics: ## Your Google Analytics tracking id, e.g. UA-42425684-2
 baidu_analytics: ## Your Baidu Analytics tracking id, e.g. 8006843039519956000
 microsoft_clarity: ## Your Microsoft Clarity tracking id, e.g. zg2ctuea9j
@@ -127,9 +127,9 @@ info:
   avatar: /img/i0081.jpg
   discription: 为人民服务/自觉觉他,自利利人.
   outlinkitem:
-    - name: twitter
+    - name: QQ
       outlink: https://twitter.com/username
-      message: Twitter
+      message: qq
     - name: envelope
       outlink: mailto:admin@domain.com
       message: Email
@@ -141,16 +141,16 @@ info:
       message: RSS
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-    src: https://www.example1.com/favicon.ico
-    desc: XXX's Blog
-  - title: site-name2
-    url: http://www.example2.com/
-    src: https://www.example1.com/favicon.ico
-    desc: YYY's Blog
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: 人生苦短,我用manjaro
+    url: https://manjaro.i0081.asia
+    src: 
+    desc: manjaro基础安装指南
+  - title: arcolinux简明安装指南
+    url: https://arco.i0081.asia/
+    src: 
+    desc: archlinux安装到进阶
+  - title: 本站搭建
+    url: /
     src: https://www.example3.com/favicon.ico
     desc: ZZZ's Blog
 
