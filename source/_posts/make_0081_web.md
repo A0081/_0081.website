@@ -1,5 +1,8 @@
 ---
 title: 关于本站搭建
+toc: true
+categories: 网站说明
+date: 2025-04-27
 ---
 ## 准备工作
 
@@ -8,7 +11,7 @@ title: 关于本站搭建
 - [Hexo](https://hexo.io/zh-cn/)(静态站点生成器/网站生成器)
 - [Maupassant](https://github.com/tufu9441/maupassant-hexo)(网站主题)
 - [腾讯云](https://cloud.tencent.com/)(域名购买,不买也行,可以部署到git page,就是国内访问可能很慢)
-
+<!-- more -->
 注册一个github帐号,一个腾讯云帐号或任何能购买域名的云服务商的帐号(阿里云,华为云,namecheap)
 
 这些除了域名可能花几块钱,其余都是免费!当然,可能有免费域名,这里不做提供.
