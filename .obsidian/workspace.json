@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/make_0081_web.md",
+                "file": "source/about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "make_0081_web"
+              "title": "index"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "dc261af06e203b3e",
   "lastOpenFiles": [
+    "source/_posts/make_0081_web.md",
     "source/_posts/麻雀记.md",
     "source/_posts/自我认知.md",
     "source/_posts/自省.md",
@@ -209,7 +210,6 @@
     "source/_posts/人生态度4.md",
     "source/_posts/人生态度3.md",
     "source/_posts/趣事.md",
-    "source/_posts/重要的人.md",
-    "source/_posts/人生态度2.md"
+    "source/_posts/重要的人.md"
   ]
 }

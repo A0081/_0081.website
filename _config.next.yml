@@ -104,7 +104,7 @@ archive_generator:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  攻略:
+  成长方法:
     default: /个人提升/ || fa fa-book
     前置知识:
       default: /前置知识/ || fa fa-flag
@@ -137,9 +137,9 @@ menu:
     
       
   about: /about/ || fa fa-user
-  tags: /tags/ || fa fa-tags
-  categories: /categories/ || fa fa-th
-  灵感纪年: /archives/ || fa fa-archive
+  #tags: /tags/ || fa fa-tags
+  #categories: /categories/ || fa fa-th
+  闪念: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -397,7 +397,7 @@ codeblock:
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: true
+  sidebar: false
   # Scroll percent label in b2t button.
   scrollpercent: true
 
