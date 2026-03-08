@@ -104,38 +104,7 @@ archive_generator:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  成长方法:
-    default: /个人提升/ || fa fa-book
-    前置知识:
-      default: /前置知识/ || fa fa-flag
-      基本观念: /基本观念.html || fa fa-heartbeat
-      生死第一: /生死.html || fa fa-heartbeat
-      什么在影响我的命运: /命运.html || fa fa-heartbeat
-      改命论: /改命论.html || fa fa-heartbeat   
-    明晰自己:
-      default: /2/ || fa fa-puzzle-piece #模糊是最大的敌人
-      做什么事: /book/2/2 || fa fa-heartbeat
-      什么地点: /book/2/2 || fa fa-heartbeat
-      什么时间: /book/2/2 || fa fa-heartbeat
-      什么心境: /book/2/2 || fa fa-heartbeat
-      和什么人: /book/2/2 || fa fa-heartbeat
-    制定计划:
-      default: /2/ || fa fa-puzzle-piece
-      P 计划: /book/2/2 || fa fa-heartbeat
-      A 行动: /book/2/2 || fa fa-heartbeat
-      C 检查: /book/2/2 || fa fa-heartbeat
-      K 处理: /book/2/2 || fa fa-heartbeat
-
-    详细事件模板:
-      default: /2/ || fa fa-puzzle-piece
-    人生常见SOP:
-      default: /2/ || fa fa-puzzle-piece
-    读书笔记及书单:
-      default: /2/ || fa fa-puzzle-piece
-    后记:
-      default: /2/ || fa fa-puzzle-piece
-    
-      
+  成长方法: /个人提升/ || fa fa-book
   about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
@@ -424,7 +393,7 @@ bookmark:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: true
-  permalink: https://github.com/yourname
+  permalink: https://github.com/A0081
 
 
 # ---------------------------------------------------------------

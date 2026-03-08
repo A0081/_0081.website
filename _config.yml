@@ -60,8 +60,8 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''          # 保持为空（根路径）
-  per_page: 4      # 恢复成 10（或你原来的值）
+  path: 'index'          # 保持为空（根路径）
+  per_page: 0      # 恢复成 10（或你原来的值）
   order_by: -date   # 或直接删掉 index_generator 部分
 # Category & Tag
 default_category: uncategorized
