@@ -95,7 +95,7 @@ git clone https://github.com/next-theme/hexo-theme-next themes/next
 修改 Hexo 配置：
 
 打开：
-```
+```bash
 vim _config.yml
 ```
 确认：
@@ -141,7 +141,7 @@ hexo generate
 hexo deploy
 ```
 如果使用 GitHub Pages：
-```
+```bash
 git push
 ```
 ## 七、Git 管理
@@ -155,4 +155,15 @@ git status
 git add .
 git commit -m "update blog"
 git push
+```
+## 八、开发环境
+当前博客技术栈：
+```bash
+.
+├── Archlinux    # 系统
+├── Git          # 版本管理   
+├── Hexo        # 建站工具
+├── NexT Theme  # 主题
+├── Github      # 代码托管
+└── Netlify     # 网页部署
 ```
